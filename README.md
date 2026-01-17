@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hey, I'm <Rodrigo Granados> ✋🏼
+**Aspiring Cloud Engineer** focused on AWS + Terraform.
+I build small, real projects every week and document my proof publicly.
+- 🔭 Current: S3 + IAM
+- 🧰 Stack: AWS + S3, IAM
+- 🎯 Goal: Cloud Engineer within this year
+**Public Proof**
+- 👉🏾 [Cloud Journey Log](https://github.com/<Cyber-Ads4>/cloud-journey)
+**Let’s connect**
+- LinkedIn: <www.linkedin.com/in/rodrigogranados>
 
 <!--
 **Cyber-Ads4/Cyber-Ads4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
