@@ -1,5 +1,5 @@
 ### Hey, I'm Rodrigo Granados ✋🏼
-**Aspiring Cloud Engineer** focused on AWS + Terraform.
+**Aspiring Security AI Engineer** focused on AWS + Terraform.
 
 I build small, real projects every week and document my proof publicly.
 - 🔭 Current: S3 + IAM
